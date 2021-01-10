@@ -1,0 +1,19 @@
+{
+  "name": "nimbus",
+  "version": "1.0.0",
+  "description": "Test Upload",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehzad002/shehzad-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehzad002/shehzad-package/issues"
+  },
+  "homepage": "https://github.com/shehzad002/shehzad-package#readme"
+}
